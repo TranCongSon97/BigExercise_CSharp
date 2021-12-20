@@ -1,0 +1,454 @@
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe.config
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.fQuanLySach.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.fQuanLyDanhMuc.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fThemSach.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fThemDanhMuc.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fSuaThongTinSach.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.ThongKe.fThongKe.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe.config
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.fQuanLyDanhMuc.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fThemDanhMuc.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.fQuanLySach.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fSuaThongTinSach.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fThemSach.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.ThongKe.fThongKe.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fDangNhap.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.QuanLyTaiKhoan.fDoiMatKhau.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fSuaTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fThemTaiKhoan.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe.config
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\FastMember.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.fQuanLyDanhMuc.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fThemDanhMuc.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.fQuanLySach.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fSuaThongTinSach.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fThemSach.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.ThongKe.fThongKe.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fDangNhap.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fDeleteEntry.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fQLDocGia.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.QuanLyTaiKhoan.fDoiMatKhau.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fSuaTaiKhoan.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fThemTaiKhoan.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CopyComplete
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fAddPhieuMuon.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fQLPhieuMuon.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fEditPhieuMuon.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\stdole.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fBillView.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach.fXemSach.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe.config
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\FastMember.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\stdole.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.fQuanLyDanhMuc.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fThemDanhMuc.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.fQuanLySach.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fSuaThongTinSach.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fThemSach.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.ThongKe.fThongKe.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fDangNhap.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fTrangChuAdmin.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fDeleteEntry.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fQLDocGia.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fAddPhieuMuon.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fBillView.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fEditPhieuMuon.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fQLPhieuMuon.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach.fXemSach.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.QuanLyTaiKhoan.fDoiMatKhau.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fSuaTaiKhoan.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fThemTaiKhoan.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.exe
+C:\Users\ADMIN\Documents\Semester 7\Windows design\Big exercises\QuanLyThuVien_CSharp-main\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\FastMember.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\stdole.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fDangNhap.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fDeleteEntry.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fQLDocGia.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fAddPhieuMuon.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fBillView.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fEditPhieuMuon.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fQLPhieuMuon.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach.fXemSach.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.QuanLyTaiKhoan.fDoiMatKhau.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fSuaTaiKhoan.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fThemTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\FastMember.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\stdole.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\EnvDTE.xml
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fTrangChuAdmin.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fDeleteEntry.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fQLDocGia.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fAddPhieuMuon.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fBillView.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fEditPhieuMuon.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fQLPhieuMuon.resources
+C:\Users\ADMIN\OneDrive\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach.fXemSach.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fTrangChu.resources
+C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.Welcome.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fTrangChu.resources
+C:\Users\Administrator\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.Welcome.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe.config
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.exe
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\QuanLyThuVien_CSharp.pdb
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\FastMember.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\EnvDTE.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\stdole.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Microsoft.MSXML.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.AssemblyReference.cache
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.fQuanLyDanhMuc.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fThemDanhMuc.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.fQuanLySach.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fSuaThongTinSach.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fThemSach.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.ThongKe.fThongKe.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fDangNhap.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.fTrangChu.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.MainForm.Welcome.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fDeleteEntry.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLDocGia.fQLDocGia.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fAddPhieuMuon.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fBillView.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fEditPhieuMuon.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QLPhieuMuon.fQLPhieuMuon.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach.fXemSach.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.QuanLyTaiKhoan.fDoiMatKhau.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fSuaTaiKhoan.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fThemTaiKhoan.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.Properties.Resources.resources
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.GenerateResource.cache
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CopyComplete
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.exe
+E:\Documents\GitHub\QuanLyThuVien_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.pdb

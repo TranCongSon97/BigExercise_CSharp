@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyThuVienCSharp" Class="QuanLyThuVien_CSharpDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=QuanLyThuVienCSharp;Integrated Security=True" SettingsObjectName="QuanLyThuVien_CSharp.Properties.Settings" SettingsPropertyName="QuanLyThuVienCSharpConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CTPHIEUMUON" Member="CTPHIEUMUONs">
+    <Type Name="CTPHIEUMUON">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MaSach" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SoPhieuMuon" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TinhTrang" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NgayMuon" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayTra" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="SACH_CTPHIEUMUON" Member="SACH" ThisKey="MaSach" OtherKey="MaSach" Type="SACH" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="PHIEUMUON_CTPHIEUMUON" Member="PHIEUMUON" ThisKey="SoPhieuMuon" OtherKey="SoPhieuMuon" Type="PHIEUMUON" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DANHMUC" Member="DANHMUCs">
+    <Type Name="DANHMUC">
+      <Column Name="MaDanhMuc" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenDanhMuc" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="DANHMUC_SACH" Member="SACHes" ThisKey="MaDanhMuc" OtherKey="MaDanhMuc" Type="SACH" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SACH" Member="SACHes">
+    <Type Name="SACH">
+      <Column Name="MaSach" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AnhSach" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="TenSach" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TacGia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NhaXuatBan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NamXuatBan" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="LanXuatBan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GiaMuon" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaDanhMuc" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="SACH_CTPHIEUMUON" Member="CTPHIEUMUONs" ThisKey="MaSach" OtherKey="MaSach" Type="CTPHIEUMUON" />
+      <Association Name="DANHMUC_SACH" Member="DANHMUC" ThisKey="MaDanhMuc" OtherKey="MaDanhMuc" Type="DANHMUC" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TAIKHOAN" Member="TAIKHOANs">
+    <Type Name="TAIKHOAN">
+      <Column Name="IDTaiKhoan" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AnhDaiDien" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="TenDangNhap" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="Char(20) NOT NULL" CanBeNull="false" />
+      <Column Name="TenNguoiDung" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LoaiTaiKhoan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PHIEUMUON" Member="PHIEUMUONs">
+    <Type Name="PHIEUMUON">
+      <Column Name="SoPhieuMuon" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenDangNhap" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MaSinhVien" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Association Name="PHIEUMUON_CTPHIEUMUON" Member="CTPHIEUMUONs" ThisKey="SoPhieuMuon" OtherKey="SoPhieuMuon" Type="CTPHIEUMUON" />
+    </Type>
+  </Table>
+</Database>
