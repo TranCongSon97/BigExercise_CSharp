@@ -128,7 +128,7 @@ namespace QuanLyThuVien_CSharp.GUI.MainForm
         {
             ActivateButton(sender, RGBColors.color1);
             lblIcon.Image = QuanLyThuVien_CSharp.Properties.Resources.manage_book;
-            //OpenChildForm(new AdminForm.fQuanLySach());
+            OpenChildForm(new AdminForm.QuanLySach.fQuanLySach());
         }
 
         private void btnXemSach_Click(object sender, EventArgs e)

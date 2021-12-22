@@ -77,7 +77,40 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\ConvertImages.cs" />
+    <Compile Include="BLL\DanhMuc_BLL.cs" />
     <Compile Include="DAL\DataConnection.cs" />
+    <Compile Include="DTO\DanhMuc_DTO.cs" />
+    <Compile Include="DTO\Sach_DTO.cs" />
+    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fQuanLyDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fQuanLyDanhMuc.Designer.cs">
+      <DependentUpon>fQuanLyDanhMuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fSuaThongTinSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fSuaThongTinSach.Designer.cs">
+      <DependentUpon>fSuaThongTinSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fThemDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fThemDanhMuc.Designer.cs">
+      <DependentUpon>fThemDanhMuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLySach\fQuanLySach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLySach\fQuanLySach.Designer.cs">
+      <DependentUpon>fQuanLySach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLySach\fThemSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLySach\fThemSach.Designer.cs">
+      <DependentUpon>fThemSach.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\MainForm\fDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +137,21 @@
       <DependentUpon>QuanLyThuVien_CSharp.dbml</DependentUpon>
     </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="GUI\AdminForm\QuanLyDanhMuc\fQuanLyDanhMuc.resx">
+      <DependentUpon>fQuanLyDanhMuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLyDanhMuc\fSuaThongTinSach.resx">
+      <DependentUpon>fSuaThongTinSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLyDanhMuc\fThemDanhMuc.resx">
+      <DependentUpon>fThemDanhMuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLySach\fQuanLySach.resx">
+      <DependentUpon>fQuanLySach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLySach\fThemSach.resx">
+      <DependentUpon>fThemSach.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\MainForm\fDangNhap.resx">
       <DependentUpon>fDangNhap.cs</DependentUpon>
     </EmbeddedResource>
@@ -249,8 +297,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="DTO\" />
-    <Folder Include="GUI\AdminForm\" />
     <Folder Include="GUI\ManagerForm\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
