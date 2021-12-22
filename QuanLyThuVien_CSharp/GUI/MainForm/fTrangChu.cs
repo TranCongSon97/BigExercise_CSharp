@@ -156,7 +156,7 @@ namespace QuanLyThuVien_CSharp.GUI.MainForm
         {
             ActivateButton(sender, RGBColors.color1);
             lblIcon.Image = QuanLyThuVien_CSharp.Properties.Resources.manage_account;
-            //OpenChildForm(new AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan());
+            OpenChildForm(new AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan());
         }
 
         private void btnThongKe_Click(object sender, EventArgs e)

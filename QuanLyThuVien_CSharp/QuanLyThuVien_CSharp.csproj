@@ -78,6 +78,7 @@
   <ItemGroup>
     <Compile Include="BLL\ConvertImages.cs" />
     <Compile Include="BLL\DanhMuc_BLL.cs" />
+    <Compile Include="BLL\ThongKe_BLL.cs" />
     <Compile Include="DAL\DataConnection.cs" />
     <Compile Include="DTO\DanhMuc_DTO.cs" />
     <Compile Include="DTO\Sach_DTO.cs" />
@@ -110,6 +111,30 @@
     </Compile>
     <Compile Include="GUI\AdminForm\QuanLySach\fThemSach.Designer.cs">
       <DependentUpon>fThemSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fDoiMatKhau.Designer.cs">
+      <DependentUpon>fDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fQuanLyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fQuanLyTaiKhoan.Designer.cs">
+      <DependentUpon>fQuanLyTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fSuaTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fSuaTaiKhoan.Designer.cs">
+      <DependentUpon>fSuaTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fThemTaiKhoan.Designer.cs">
+      <DependentUpon>fThemTaiKhoan.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\MainForm\fDangNhap.cs">
       <SubType>Form</SubType>
@@ -151,6 +176,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\AdminForm\QuanLySach\fThemSach.resx">
       <DependentUpon>fThemSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLyTaiKhoan\fDoiMatKhau.resx">
+      <DependentUpon>fDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLyTaiKhoan\fQuanLyTaiKhoan.resx">
+      <DependentUpon>fQuanLyTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLyTaiKhoan\fSuaTaiKhoan.resx">
+      <DependentUpon>fSuaTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLyTaiKhoan\fThemTaiKhoan.resx">
+      <DependentUpon>fThemTaiKhoan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\MainForm\fDangNhap.resx">
       <DependentUpon>fDangNhap.cs</DependentUpon>
