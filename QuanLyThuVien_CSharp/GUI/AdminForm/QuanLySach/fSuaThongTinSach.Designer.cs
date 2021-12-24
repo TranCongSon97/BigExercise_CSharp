@@ -1,5 +1,5 @@
 ﻿
-namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc
+namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach
 {
     partial class fSuaThongTinSach
     {

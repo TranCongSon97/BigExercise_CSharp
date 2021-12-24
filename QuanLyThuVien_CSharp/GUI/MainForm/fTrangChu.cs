@@ -135,7 +135,7 @@ namespace QuanLyThuVien_CSharp.GUI.MainForm
         {
             ActivateButton(sender, RGBColors.color1);
             lblIcon.Image = QuanLyThuVien_CSharp.Properties.Resources.manage_book;
-            //OpenChildForm(new ManagerForm.XemSach.fXemSach());
+            OpenChildForm(new ManagerForm.XemSach.fXemSach());
         }
 
         private void btnQuanLyMuonTra_Click(object sender, EventArgs e)
@@ -163,7 +163,7 @@ namespace QuanLyThuVien_CSharp.GUI.MainForm
         {
             ActivateButton(sender, RGBColors.color1);
             lblIcon.Image = QuanLyThuVien_CSharp.Properties.Resources.statistic;
-            //OpenChildForm(new AdminForm.ThongKe.fThongKe());
+            OpenChildForm(new AdminForm.ThongKe.fThongKe());
         }
 
         private void btnDoiMatKhau_Click(object sender, EventArgs e)

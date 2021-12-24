@@ -1,5 +1,4 @@
 ﻿using QuanLyThuVien_CSharp.BLL;
-using QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc
+namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach
 {
     public partial class fSuaThongTinSach : Form
     {
@@ -19,7 +18,6 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc
         fQuanLySach QuanLySach;
         int MaSach;
         bool textChange;
-
         public fSuaThongTinSach()
         {
             InitializeComponent();

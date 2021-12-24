@@ -81,18 +81,13 @@
     <Compile Include="BLL\ThongKe_BLL.cs" />
     <Compile Include="DAL\DataConnection.cs" />
     <Compile Include="DTO\DanhMuc_DTO.cs" />
+    <Compile Include="DTO\DocGia_DTO.cs" />
     <Compile Include="DTO\Sach_DTO.cs" />
     <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fQuanLyDanhMuc.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fQuanLyDanhMuc.Designer.cs">
       <DependentUpon>fQuanLyDanhMuc.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fSuaThongTinSach.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fSuaThongTinSach.Designer.cs">
-      <DependentUpon>fSuaThongTinSach.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\AdminForm\QuanLyDanhMuc\fThemDanhMuc.cs">
       <SubType>Form</SubType>
@@ -105,6 +100,12 @@
     </Compile>
     <Compile Include="GUI\AdminForm\QuanLySach\fQuanLySach.Designer.cs">
       <DependentUpon>fQuanLySach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLySach\fSuaThongTinSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\QuanLySach\fSuaThongTinSach.Designer.cs">
+      <DependentUpon>fSuaThongTinSach.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\AdminForm\QuanLySach\fThemSach.cs">
       <SubType>Form</SubType>
@@ -136,6 +137,12 @@
     <Compile Include="GUI\AdminForm\QuanLyTaiKhoan\fThemTaiKhoan.Designer.cs">
       <DependentUpon>fThemTaiKhoan.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\AdminForm\ThongKe\fThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm\ThongKe\fThongKe.Designer.cs">
+      <DependentUpon>fThongKe.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\MainForm\fDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -154,6 +161,12 @@
     <Compile Include="GUI\MainForm\Welcome.Designer.cs">
       <DependentUpon>Welcome.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\ManagerForm\XemSach\fXemSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\XemSach\fXemSach.Designer.cs">
+      <DependentUpon>fXemSach.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuanLyThuVien_CSharp.designer.cs">
@@ -165,14 +178,14 @@
     <EmbeddedResource Include="GUI\AdminForm\QuanLyDanhMuc\fQuanLyDanhMuc.resx">
       <DependentUpon>fQuanLyDanhMuc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\AdminForm\QuanLyDanhMuc\fSuaThongTinSach.resx">
-      <DependentUpon>fSuaThongTinSach.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="GUI\AdminForm\QuanLyDanhMuc\fThemDanhMuc.resx">
       <DependentUpon>fThemDanhMuc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\AdminForm\QuanLySach\fQuanLySach.resx">
       <DependentUpon>fQuanLySach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\QuanLySach\fSuaThongTinSach.resx">
+      <DependentUpon>fSuaThongTinSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\AdminForm\QuanLySach\fThemSach.resx">
       <DependentUpon>fThemSach.cs</DependentUpon>
@@ -189,6 +202,9 @@
     <EmbeddedResource Include="GUI\AdminForm\QuanLyTaiKhoan\fThemTaiKhoan.resx">
       <DependentUpon>fThemTaiKhoan.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminForm\ThongKe\fThongKe.resx">
+      <DependentUpon>fThongKe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\MainForm\fDangNhap.resx">
       <DependentUpon>fDangNhap.cs</DependentUpon>
     </EmbeddedResource>
@@ -197,6 +213,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\MainForm\Welcome.resx">
       <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\XemSach\fXemSach.resx">
+      <DependentUpon>fXemSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -333,8 +352,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="GUI\ManagerForm\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

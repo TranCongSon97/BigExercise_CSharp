@@ -527,7 +527,6 @@ C:\Users\Administrator\Desktop\Work\New folder\QuanLyThuVien_CSharp\obj\Debug\Qu
 C:\Users\Administrator\Desktop\Work\New folder\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.pdb
 C:\Users\Administrator\Desktop\Work\New folder\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csprojAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fQuanLyDanhMuc.resources
-C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fSuaThongTinSach.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyDanhMuc.fThemDanhMuc.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fQuanLySach.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fThemSach.resources
@@ -609,3 +608,6 @@ C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csprojAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fThemTaiKhoan.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fSuaThongTinSach.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.ThongKe.fThongKe.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach.fXemSach.resources
