@@ -33,20 +33,20 @@ namespace QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnSearch = new System.Windows.Forms.Button();
             this.txtSearch = new System.Windows.Forms.TextBox();
             this.cbbSearch = new System.Windows.Forms.ComboBox();
-            this.btnSearch = new System.Windows.Forms.Button();
-            this.GiaMuon = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.SoLuong = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.LanXB = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NamXB = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenNXB = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TacGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenSach = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenDanhMuc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MaSach = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.AnhSach = new System.Windows.Forms.DataGridViewImageColumn();
             this.dgvSach = new System.Windows.Forms.DataGridView();
+            this.AnhSach = new System.Windows.Forms.DataGridViewImageColumn();
+            this.MaSach = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenDanhMuc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenSach = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TacGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenNXB = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NamXB = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.LanXB = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SoLuong = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.GiaMuon = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSach)).BeginInit();
             this.SuspendLayout();
@@ -62,6 +62,21 @@ namespace QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1203, 100);
             this.panel1.TabIndex = 2;
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSearch.BackColor = System.Drawing.Color.MistyRose;
+            this.btnSearch.ForeColor = System.Drawing.Color.Blue;
+            this.btnSearch.Image = global::QuanLyThuVien_CSharp.Properties.Resources.search;
+            this.btnSearch.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSearch.Location = new System.Drawing.Point(1000, 22);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(179, 54);
+            this.btnSearch.TabIndex = 2;
+            this.btnSearch.Text = "Tìm kiếm";
+            this.btnSearch.UseVisualStyleBackColor = false;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // txtSearch
             // 
@@ -86,104 +101,6 @@ namespace QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach
             this.cbbSearch.Name = "cbbSearch";
             this.cbbSearch.Size = new System.Drawing.Size(236, 28);
             this.cbbSearch.TabIndex = 0;
-            // 
-            // btnSearch
-            // 
-            this.btnSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSearch.BackColor = System.Drawing.Color.MistyRose;
-            this.btnSearch.ForeColor = System.Drawing.Color.Blue;
-            this.btnSearch.Image = global::QuanLyThuVien_CSharp.Properties.Resources.search;
-            this.btnSearch.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSearch.Location = new System.Drawing.Point(1000, 22);
-            this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(179, 54);
-            this.btnSearch.TabIndex = 2;
-            this.btnSearch.Text = "Tìm kiếm";
-            this.btnSearch.UseVisualStyleBackColor = false;
-            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
-            // 
-            // GiaMuon
-            // 
-            this.GiaMuon.DataPropertyName = "GiaMuon";
-            this.GiaMuon.HeaderText = "Giá mượn";
-            this.GiaMuon.MinimumWidth = 6;
-            this.GiaMuon.Name = "GiaMuon";
-            this.GiaMuon.Width = 125;
-            // 
-            // SoLuong
-            // 
-            this.SoLuong.DataPropertyName = "SoLuong";
-            this.SoLuong.HeaderText = "Số lượng";
-            this.SoLuong.MinimumWidth = 6;
-            this.SoLuong.Name = "SoLuong";
-            this.SoLuong.Width = 125;
-            // 
-            // LanXB
-            // 
-            this.LanXB.DataPropertyName = "LanXuatBan";
-            this.LanXB.HeaderText = "Lần xuất bản";
-            this.LanXB.MinimumWidth = 6;
-            this.LanXB.Name = "LanXB";
-            this.LanXB.Width = 120;
-            // 
-            // NamXB
-            // 
-            this.NamXB.DataPropertyName = "NamXuatBan";
-            this.NamXB.HeaderText = "Năm xuất bản";
-            this.NamXB.MinimumWidth = 6;
-            this.NamXB.Name = "NamXB";
-            this.NamXB.Width = 150;
-            // 
-            // TenNXB
-            // 
-            this.TenNXB.DataPropertyName = "NhaXuatBan";
-            this.TenNXB.HeaderText = "Nhà xuất bản";
-            this.TenNXB.MinimumWidth = 6;
-            this.TenNXB.Name = "TenNXB";
-            this.TenNXB.Width = 200;
-            // 
-            // TacGia
-            // 
-            this.TacGia.DataPropertyName = "TacGia";
-            this.TacGia.HeaderText = "Tác giả";
-            this.TacGia.MinimumWidth = 6;
-            this.TacGia.Name = "TacGia";
-            this.TacGia.Width = 200;
-            // 
-            // TenSach
-            // 
-            this.TenSach.DataPropertyName = "TenSach";
-            this.TenSach.HeaderText = "Tên sách";
-            this.TenSach.MinimumWidth = 6;
-            this.TenSach.Name = "TenSach";
-            this.TenSach.Width = 200;
-            // 
-            // TenDanhMuc
-            // 
-            this.TenDanhMuc.DataPropertyName = "TenDanhMuc";
-            this.TenDanhMuc.HeaderText = "Tên danh mục";
-            this.TenDanhMuc.MinimumWidth = 6;
-            this.TenDanhMuc.Name = "TenDanhMuc";
-            this.TenDanhMuc.Width = 170;
-            // 
-            // MaSach
-            // 
-            this.MaSach.DataPropertyName = "MaSach";
-            this.MaSach.HeaderText = "Mã sách";
-            this.MaSach.MinimumWidth = 6;
-            this.MaSach.Name = "MaSach";
-            this.MaSach.Width = 125;
-            // 
-            // AnhSach
-            // 
-            this.AnhSach.DataPropertyName = "AnhSach";
-            this.AnhSach.HeaderText = "Ảnh";
-            this.AnhSach.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom;
-            this.AnhSach.MinimumWidth = 6;
-            this.AnhSach.Name = "AnhSach";
-            this.AnhSach.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.AnhSach.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.AnhSach.Width = 150;
             // 
             // dgvSach
             // 
@@ -221,8 +138,7 @@ namespace QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvSach.DefaultCellStyle = dataGridViewCellStyle2;
             this.dgvSach.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvSach.Enabled = false;
-            this.dgvSach.Location = new System.Drawing.Point(0, 0);
+            this.dgvSach.Location = new System.Drawing.Point(0, 100);
             this.dgvSach.Name = "dgvSach";
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
@@ -235,18 +151,99 @@ namespace QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach
             this.dgvSach.RowHeadersVisible = false;
             this.dgvSach.RowHeadersWidth = 51;
             this.dgvSach.RowTemplate.Height = 100;
-            this.dgvSach.ShowCellToolTips = false;
-            this.dgvSach.Size = new System.Drawing.Size(1203, 632);
-            this.dgvSach.StandardTab = true;
+            this.dgvSach.Size = new System.Drawing.Size(1203, 532);
             this.dgvSach.TabIndex = 3;
+            // 
+            // AnhSach
+            // 
+            this.AnhSach.DataPropertyName = "AnhSach";
+            this.AnhSach.HeaderText = "Ảnh";
+            this.AnhSach.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom;
+            this.AnhSach.MinimumWidth = 6;
+            this.AnhSach.Name = "AnhSach";
+            this.AnhSach.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.AnhSach.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.AnhSach.Width = 150;
+            // 
+            // MaSach
+            // 
+            this.MaSach.DataPropertyName = "MaSach";
+            this.MaSach.HeaderText = "Mã sách";
+            this.MaSach.MinimumWidth = 6;
+            this.MaSach.Name = "MaSach";
+            this.MaSach.Width = 125;
+            // 
+            // TenDanhMuc
+            // 
+            this.TenDanhMuc.DataPropertyName = "TenDanhMuc";
+            this.TenDanhMuc.HeaderText = "Tên danh mục";
+            this.TenDanhMuc.MinimumWidth = 6;
+            this.TenDanhMuc.Name = "TenDanhMuc";
+            this.TenDanhMuc.Width = 170;
+            // 
+            // TenSach
+            // 
+            this.TenSach.DataPropertyName = "TenSach";
+            this.TenSach.HeaderText = "Tên sách";
+            this.TenSach.MinimumWidth = 6;
+            this.TenSach.Name = "TenSach";
+            this.TenSach.Width = 200;
+            // 
+            // TacGia
+            // 
+            this.TacGia.DataPropertyName = "TacGia";
+            this.TacGia.HeaderText = "Tác giả";
+            this.TacGia.MinimumWidth = 6;
+            this.TacGia.Name = "TacGia";
+            this.TacGia.Width = 200;
+            // 
+            // TenNXB
+            // 
+            this.TenNXB.DataPropertyName = "NhaXuatBan";
+            this.TenNXB.HeaderText = "Nhà xuất bản";
+            this.TenNXB.MinimumWidth = 6;
+            this.TenNXB.Name = "TenNXB";
+            this.TenNXB.Width = 200;
+            // 
+            // NamXB
+            // 
+            this.NamXB.DataPropertyName = "NamXuatBan";
+            this.NamXB.HeaderText = "Năm xuất bản";
+            this.NamXB.MinimumWidth = 6;
+            this.NamXB.Name = "NamXB";
+            this.NamXB.Width = 150;
+            // 
+            // LanXB
+            // 
+            this.LanXB.DataPropertyName = "LanXuatBan";
+            this.LanXB.HeaderText = "Lần xuất bản";
+            this.LanXB.MinimumWidth = 6;
+            this.LanXB.Name = "LanXB";
+            this.LanXB.Width = 120;
+            // 
+            // SoLuong
+            // 
+            this.SoLuong.DataPropertyName = "SoLuong";
+            this.SoLuong.HeaderText = "Số lượng";
+            this.SoLuong.MinimumWidth = 6;
+            this.SoLuong.Name = "SoLuong";
+            this.SoLuong.Width = 125;
+            // 
+            // GiaMuon
+            // 
+            this.GiaMuon.DataPropertyName = "GiaMuon";
+            this.GiaMuon.HeaderText = "Giá mượn";
+            this.GiaMuon.MinimumWidth = 6;
+            this.GiaMuon.Name = "GiaMuon";
+            this.GiaMuon.Width = 125;
             // 
             // fXemSach
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1203, 632);
-            this.Controls.Add(this.panel1);
             this.Controls.Add(this.dgvSach);
+            this.Controls.Add(this.panel1);
             this.Name = "fXemSach";
             this.Text = "fXemSach";
             this.panel1.ResumeLayout(false);
@@ -262,16 +259,16 @@ namespace QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach
         private System.Windows.Forms.Button btnSearch;
         private System.Windows.Forms.TextBox txtSearch;
         private System.Windows.Forms.ComboBox cbbSearch;
-        private System.Windows.Forms.DataGridViewTextBoxColumn GiaMuon;
-        private System.Windows.Forms.DataGridViewTextBoxColumn SoLuong;
-        private System.Windows.Forms.DataGridViewTextBoxColumn LanXB;
-        private System.Windows.Forms.DataGridViewTextBoxColumn NamXB;
-        private System.Windows.Forms.DataGridViewTextBoxColumn TenNXB;
-        private System.Windows.Forms.DataGridViewTextBoxColumn TacGia;
-        private System.Windows.Forms.DataGridViewTextBoxColumn TenSach;
-        private System.Windows.Forms.DataGridViewTextBoxColumn TenDanhMuc;
-        private System.Windows.Forms.DataGridViewTextBoxColumn MaSach;
-        private System.Windows.Forms.DataGridViewImageColumn AnhSach;
         private System.Windows.Forms.DataGridView dgvSach;
+        private System.Windows.Forms.DataGridViewImageColumn AnhSach;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MaSach;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenDanhMuc;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenSach;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TacGia;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenNXB;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NamXB;
+        private System.Windows.Forms.DataGridViewTextBoxColumn LanXB;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SoLuong;
+        private System.Windows.Forms.DataGridViewTextBoxColumn GiaMuon;
     }
 }

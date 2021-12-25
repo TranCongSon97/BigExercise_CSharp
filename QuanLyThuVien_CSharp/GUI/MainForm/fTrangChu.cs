@@ -142,14 +142,14 @@ namespace QuanLyThuVien_CSharp.GUI.MainForm
         {
             ActivateButton(sender, RGBColors.color1);
             lblIcon.Image = QuanLyThuVien_CSharp.Properties.Resources.ticket;
-            //OpenChildForm(new ManagerForm.QLPhieuMuon.fQLPhieuMuon(tenND));
+            OpenChildForm(new ManagerForm.QuanLyPhieuMuon.fQuanLyPhieuMuon(tenND));
         }
 
         private void btnQuanLyDocGia_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color1);
             lblIcon.Image = QuanLyThuVien_CSharp.Properties.Resources.reader;
-            //OpenChildForm(new ManagerForm.QLDocGia.fQLDocGia());
+            OpenChildForm(new ManagerForm.QuanLyDocGia.fQuanLyDocGia());
         }
 
         private void btnQuanLyTaiKhoan_Click(object sender, EventArgs e)
@@ -168,7 +168,7 @@ namespace QuanLyThuVien_CSharp.GUI.MainForm
 
         private void btnDoiMatKhau_Click(object sender, EventArgs e)
         {
-            //OpenChildForm(new QuanLyTaiKhoan.fDoiMatKhau(btnUser.Text));
+            OpenChildForm(new AdminForm.QuanLyTaiKhoan.fDoiMatKhau(btnUser.Text));
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

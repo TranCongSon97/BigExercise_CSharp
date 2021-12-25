@@ -10,9 +10,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
         QuanLyThuVien_CSharpDataContext dataContext = new QuanLyThuVien_CSharpDataContext();
         String userName;
 
-        public fDoiMatKhau()
+        public fDoiMatKhau(string username)
         {
             InitializeComponent();
+            userName = username;
         }
 
         private void ChangePassword()

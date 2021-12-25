@@ -161,6 +161,42 @@
     <Compile Include="GUI\MainForm\Welcome.Designer.cs">
       <DependentUpon>Welcome.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyDocGia\fDeleteEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyDocGia\fDeleteEntry.Designer.cs">
+      <DependentUpon>fDeleteEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyDocGia\fQuanLyDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyDocGia\fQuanLyDocGia.Designer.cs">
+      <DependentUpon>fQuanLyDocGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fBillView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fBillView.Designer.cs">
+      <DependentUpon>fBillView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fQuanLyPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fQuanLyPhieuMuon.Designer.cs">
+      <DependentUpon>fQuanLyPhieuMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fSuaPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fSuaPhieuMuon.Designer.cs">
+      <DependentUpon>fSuaPhieuMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fThemPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ManagerForm\QuanLyPhieuMuon\fThemPhieuMuon.Designer.cs">
+      <DependentUpon>fThemPhieuMuon.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\ManagerForm\XemSach\fXemSach.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -214,6 +250,25 @@
     <EmbeddedResource Include="GUI\MainForm\Welcome.resx">
       <DependentUpon>Welcome.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\QuanLyDocGia\fDeleteEntry.resx">
+      <DependentUpon>fDeleteEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\QuanLyDocGia\fQuanLyDocGia.resx">
+      <DependentUpon>fQuanLyDocGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\QuanLyPhieuMuon\fBillView.resx">
+      <DependentUpon>fBillView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\QuanLyPhieuMuon\fQuanLyPhieuMuon.resx">
+      <DependentUpon>fQuanLyPhieuMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\QuanLyPhieuMuon\fSuaPhieuMuon.resx">
+      <DependentUpon>fSuaPhieuMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\QuanLyPhieuMuon\fThemPhieuMuon.resx">
+      <DependentUpon>fThemPhieuMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ManagerForm\QuanLyPhieuMuon\PhieuMuon.rdlc" />
     <EmbeddedResource Include="GUI\ManagerForm\XemSach\fXemSach.resx">
       <DependentUpon>fXemSach.cs</DependentUpon>
     </EmbeddedResource>

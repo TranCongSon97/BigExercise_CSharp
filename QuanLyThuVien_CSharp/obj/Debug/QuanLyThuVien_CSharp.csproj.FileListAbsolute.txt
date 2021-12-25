@@ -605,9 +605,16 @@ C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csproj.CopyComplete
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fDoiMatKhau.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fSuaTaiKhoan.resources
-C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.csprojAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fQuanLyTaiKhoan.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan.fThemTaiKhoan.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach.fSuaThongTinSach.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.AdminForm.ThongKe.fThongKe.resources
 C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.XemSach.fXemSach.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QuanLyPhieuMuon.fBillView.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QuanLyPhieuMuon.fQuanLyPhieuMuon.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QuanLyPhieuMuon.fSuaPhieuMuon.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QuanLyPhieuMuon.fThemPhieuMuon.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QuanLyDocGia.fDeleteEntry.resources
+C:\Users\Administrator\Documents\GitHub\BigExercise_CSharp\QuanLyThuVien_CSharp\obj\Debug\QuanLyThuVien_CSharp.GUI.ManagerForm.QuanLyDocGia.fQuanLyDocGia.resources
