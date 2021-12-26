@@ -66,11 +66,12 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.tableLayoutPanel1.Controls.Add(this.panel1, 1, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 199F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1313, 199);
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 162F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(985, 162);
             this.tableLayoutPanel1.TabIndex = 7;
             // 
             // panel3
@@ -80,9 +81,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.panel3.Controls.Add(this.btnEdit);
             this.panel3.Controls.Add(this.btnAdd);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(3, 3);
+            this.panel3.Location = new System.Drawing.Point(2, 2);
+            this.panel3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(781, 193);
+            this.panel3.Size = new System.Drawing.Size(587, 158);
             this.panel3.TabIndex = 1;
             // 
             // btnLoad
@@ -93,9 +95,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.btnLoad.ForeColor = System.Drawing.Color.Blue;
             this.btnLoad.Image = global::QuanLyThuVien_CSharp.Properties.Resources.reload;
             this.btnLoad.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnLoad.Location = new System.Drawing.Point(399, 105);
+            this.btnLoad.Location = new System.Drawing.Point(299, 86);
+            this.btnLoad.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnLoad.Name = "btnLoad";
-            this.btnLoad.Size = new System.Drawing.Size(205, 54);
+            this.btnLoad.Size = new System.Drawing.Size(154, 44);
             this.btnLoad.TabIndex = 3;
             this.btnLoad.Text = "Load";
             this.btnLoad.UseVisualStyleBackColor = false;
@@ -109,9 +112,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.btnDelete.ForeColor = System.Drawing.Color.Blue;
             this.btnDelete.Image = global::QuanLyThuVien_CSharp.Properties.Resources.delete_user;
             this.btnDelete.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnDelete.Location = new System.Drawing.Point(136, 105);
+            this.btnDelete.Location = new System.Drawing.Point(102, 86);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(205, 54);
+            this.btnDelete.Size = new System.Drawing.Size(154, 44);
             this.btnDelete.TabIndex = 2;
             this.btnDelete.Text = "Xóa";
             this.btnDelete.UseVisualStyleBackColor = false;
@@ -125,9 +129,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.btnEdit.ForeColor = System.Drawing.Color.Blue;
             this.btnEdit.Image = global::QuanLyThuVien_CSharp.Properties.Resources.modify_user;
             this.btnEdit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnEdit.Location = new System.Drawing.Point(399, 33);
+            this.btnEdit.Location = new System.Drawing.Point(299, 28);
+            this.btnEdit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnEdit.Name = "btnEdit";
-            this.btnEdit.Size = new System.Drawing.Size(205, 54);
+            this.btnEdit.Size = new System.Drawing.Size(154, 44);
             this.btnEdit.TabIndex = 1;
             this.btnEdit.Text = "Sửa";
             this.btnEdit.UseVisualStyleBackColor = false;
@@ -141,9 +146,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.btnAdd.ForeColor = System.Drawing.Color.Blue;
             this.btnAdd.Image = global::QuanLyThuVien_CSharp.Properties.Resources.add_user;
             this.btnAdd.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAdd.Location = new System.Drawing.Point(136, 33);
+            this.btnAdd.Location = new System.Drawing.Point(102, 28);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(205, 54);
+            this.btnAdd.Size = new System.Drawing.Size(154, 44);
             this.btnAdd.TabIndex = 0;
             this.btnAdd.Text = "Thêm";
             this.btnAdd.UseVisualStyleBackColor = false;
@@ -153,9 +159,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             // 
             this.panel1.Controls.Add(this.groupBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(790, 3);
+            this.panel1.Location = new System.Drawing.Point(593, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(520, 193);
+            this.panel1.Size = new System.Drawing.Size(390, 158);
             this.panel1.TabIndex = 3;
             // 
             // groupBox1
@@ -166,8 +173,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(520, 193);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Size = new System.Drawing.Size(390, 158);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tìm kiếm";
@@ -176,9 +185,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(134, 48);
+            this.label1.Location = new System.Drawing.Point(100, 39);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 20);
+            this.label1.Size = new System.Drawing.Size(63, 17);
             this.label1.TabIndex = 2;
             this.label1.Text = "Tìm theo";
             // 
@@ -190,17 +200,19 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.cbbSearch.Items.AddRange(new object[] {
             "Tên đăng nhập",
             "Tên người dùng"});
-            this.cbbSearch.Location = new System.Drawing.Point(228, 45);
+            this.cbbSearch.Location = new System.Drawing.Point(171, 37);
+            this.cbbSearch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbbSearch.Name = "cbbSearch";
-            this.cbbSearch.Size = new System.Drawing.Size(178, 28);
+            this.cbbSearch.Size = new System.Drawing.Size(134, 25);
             this.cbbSearch.TabIndex = 0;
             // 
             // txtSearch
             // 
             this.txtSearch.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtSearch.Location = new System.Drawing.Point(98, 91);
+            this.txtSearch.Location = new System.Drawing.Point(74, 74);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtSearch.Name = "txtSearch";
-            this.txtSearch.Size = new System.Drawing.Size(308, 27);
+            this.txtSearch.Size = new System.Drawing.Size(232, 23);
             this.txtSearch.TabIndex = 1;
             this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
@@ -240,7 +252,8 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.dgvAccount.DefaultCellStyle = dataGridViewCellStyle2;
             this.dgvAccount.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvAccount.GridColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.dgvAccount.Location = new System.Drawing.Point(0, 199);
+            this.dgvAccount.Location = new System.Drawing.Point(0, 162);
+            this.dgvAccount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dgvAccount.MultiSelect = false;
             this.dgvAccount.Name = "dgvAccount";
             this.dgvAccount.ReadOnly = true;
@@ -255,9 +268,10 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             this.dgvAccount.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.AutoSizeToDisplayedHeaders;
             this.dgvAccount.RowTemplate.Height = 100;
             this.dgvAccount.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvAccount.Size = new System.Drawing.Size(1313, 450);
+            this.dgvAccount.Size = new System.Drawing.Size(985, 365);
             this.dgvAccount.StandardTab = true;
             this.dgvAccount.TabIndex = 8;
+            this.dgvAccount.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvAccount_CellClick_1);
             // 
             // AnhDaiDien
             // 
@@ -314,11 +328,12 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             // 
             // fQuanLyTaiKhoan
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1313, 649);
+            this.ClientSize = new System.Drawing.Size(985, 527);
             this.Controls.Add(this.dgvAccount);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "fQuanLyTaiKhoan";
             this.Text = "fQuanLyTaiKhoan";
             this.Load += new System.EventHandler(this.fQuanLyTaiKhoan_Load);

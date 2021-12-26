@@ -21,6 +21,7 @@ namespace QuanLyThuVien_CSharp.GUI.ManagerForm.QuanLyPhieuMuon
         {
             InitializeComponent();
             this.tenDN = TenDangNhap;
+            loadForm();
         }
         private void fQLPhieuMuon_Load(object sender, EventArgs e)
         {

@@ -52,28 +52,6 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
             LoadData();
         }
 
-        private void dgvAccount_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-            try
-            {
-                index = e.RowIndex;
-                if (index >= 0)
-                {
-                    btnEdit.Enabled = true;
-                    btnDelete.Enabled = true;
-                }
-                else
-                {
-                    btnEdit.Enabled = false;
-                    btnDelete.Enabled = false;
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error: " + ex.Message, "Có lỗi xảy ra");
-            }
-        }
-
         private void deleteTaiKhoan()
         {
             try
@@ -128,6 +106,28 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLyTaiKhoan
                             where p.TenNguoiDung.Contains(txtSearch.Text)
                             select new { AnhDaiDien = p.AnhDaiDien.ToArray(), p.TenDangNhap, p.MatKhau, p.TenNguoiDung, p.LoaiTaiKhoan, p.TinhTrang };
                     dgvAccount.DataSource = s.ToList();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Có lỗi xảy ra");
+            }
+        }
+
+        private void dgvAccount_CellClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+            try
+            {
+                index = e.RowIndex;
+                if (index >= 0)
+                {
+                    btnEdit.Enabled = true;
+                    btnDelete.Enabled = true;
+                }
+                else
+                {
+                    btnEdit.Enabled = false;
+                    btnDelete.Enabled = false;
                 }
             }
             catch (Exception ex)
