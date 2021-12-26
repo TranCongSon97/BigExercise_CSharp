@@ -252,7 +252,7 @@ namespace QuanLyThuVien_CSharp.GUI.MainForm
             this.btnUser.Name = "btnUser";
             this.btnUser.Size = new System.Drawing.Size(185, 54);
             this.btnUser.TabIndex = 1;
-            this.btnUser.Text = "Hà Thanh Hoàng";
+            this.btnUser.Text = "Trần Công Sơn";
             this.btnUser.UseVisualStyleBackColor = false;
             this.btnUser.Click += new System.EventHandler(this.btnUser_Click);
             // 
