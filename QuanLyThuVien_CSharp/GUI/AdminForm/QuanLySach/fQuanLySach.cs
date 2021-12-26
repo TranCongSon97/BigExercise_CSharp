@@ -241,6 +241,18 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach
             MessageBox.Show("Tạo thành công file excel tại \n " + fileName);
         }
 
+
+        private void btnHienThi_Click(object sender, EventArgs e)
+        {
+            LoadData();
+        }
+
+        private void btnQuanLyDanhMuc_Click(object sender, EventArgs e)
+        {
+            fQuanLyDanhMuc fDanhMuc = new fQuanLyDanhMuc();
+            fDanhMuc.ShowDialog();
+        }
+
         private void btnXuatExcel_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
@@ -298,17 +310,6 @@ namespace QuanLyThuVien_CSharp.GUI.AdminForm.QuanLySach
                     }
                 }
             }
-        }
-
-        private void btnHienThi_Click(object sender, EventArgs e)
-        {
-            LoadData();
-        }
-
-        private void btnQuanLyDanhMuc_Click(object sender, EventArgs e)
-        {
-            fQuanLyDanhMuc fDanhMuc = new fQuanLyDanhMuc();
-            fDanhMuc.ShowDialog();
         }
     }
 }
